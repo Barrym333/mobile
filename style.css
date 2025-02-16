@@ -10,7 +10,7 @@ padding: 100px 0;
 margin: 0auto;
 border: black;
 display: flex;
-justify-content: space-around;
+justify-content: center;
 }
 
 p {
